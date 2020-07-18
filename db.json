@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Rhea, greater","category":"Fuscia"},
+{"id":2,"name":"Grey mouse lemur","category":"Indigo"},
+{"id":3,"name":"Common duiker","category":"Yellow"},
+{"id":4,"name":"Anteater, giant","category":"Goldenrod"},
+{"id":5,"name":"Striated heron","category":"Red"},
+{"id":6,"name":"Kalahari scrub robin","category":"Red"},
+{"id":7,"name":"Arctic tern","category":"Indigo"},
+{"id":8,"name":"Cuis","category":"Blue"},
+{"id":9,"name":"Spoonbill, european","category":"Yellow"},
+{"id":10,"name":"Square-lipped rhinoceros","category":"Violet"},
+{"id":11,"name":"Fork-tailed drongo","category":"Goldenrod"},
+{"id":12,"name":"Elephant, african","category":"Khaki"},
+{"id":13,"name":"Black-footed ferret","category":"Maroon"},
+{"id":14,"name":"Lion, galapagos sea","category":"Red"},
+{"id":15,"name":"Hen, sage","category":"Puce"},
+{"id":16,"name":"Seal, common","category":"Goldenrod"},
+{"id":17,"name":"Egret, snowy","category":"Violet"},
+{"id":18,"name":"Lava gull","category":"Mauv"},
+{"id":19,"name":"Arctic tern","category":"Red"},
+{"id":20,"name":"Shrike, crimson-breasted","category":"Aquamarine"}
+]
+}
